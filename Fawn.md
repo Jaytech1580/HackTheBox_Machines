@@ -1,3 +1,9 @@
+# Fawn Machine Challenge Walkthrough
+
+## Overview
+
+This walkthrough covers the steps to compromise the "Fawn" machine, part of the 'Starting Point' labs on Hack the Box, with a difficulty rating of 'Very Easy.'
+
 ## Initialization and Activation
 
 1. Log in to the Hack the Box portal and navigate to the 'Starting Point' labs.
